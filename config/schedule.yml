@@ -1,0 +1,7 @@
+daily_result_stats_job:
+  cron: "0 18 * * *"
+  class: "DailyResultStatsWorker"
+
+monthly_result_stats_job:
+  cron: "0 18 1 * *"
+  class: "MonthlyResultStatsWorker"
