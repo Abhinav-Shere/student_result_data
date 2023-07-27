@@ -1,0 +1,2 @@
+class DailyResultStatsController < ApplicationController
+end

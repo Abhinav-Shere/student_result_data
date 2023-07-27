@@ -1,0 +1,2 @@
+module MonthlyAveragesHelper
+end
